@@ -125,7 +125,7 @@ int main() {
 
     std::string temp;
     std::vector<std::string> text;  //empty vector of strings
-    while (std::cin) {
+    while (std::cin>>temp) {
         text.push_back(temp);  // append word to text
     }
 
