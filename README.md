@@ -1,2 +1,2 @@
-# C++ Primer 5th Editoin by Lippman
+# C++ Primer 5th Edition by Lippman
 Conscised and abstract, mapped notes as cpp files with comments.
